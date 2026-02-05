@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-stream-of-consciousness-class-struggle",
+  "title": "The Debt of Rain",
+  "tagline": "In the monsoon-drenched silence between languages, a family counts what is owed—in rice, in memory, and in dreams.",
+  "target_words": 70000,
+  "actual_words": 71311,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Inheritance of Colonial Debt",
+    "The Interior Monologue as Resistance",
+    "The Stratigraphy of a Postcolonial Town",
+    "The Unspoken Language of Class"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Typewriter Rain",
+      "words": 2970
+    },
+    {
+      "ch": 2,
+      "title": "The Silver Fish Needle",
+      "words": 2970
+    },
+    {
+      "ch": 3,
+      "title": "The Illusion of Power",
+      "words": 2970
+    },
+    {
+      "ch": 4,
+      "title": "The Borrowed Wings",
+      "words": 2970
+    },
+    {
+      "ch": 5,
+      "title": "The Grammar of Boots",
+      "words": 2970
+    },
+    {
+      "ch": 6,
+      "title": "The Smell of Belacan",
+      "words": 2970
+    },
+    {
+      "ch": 7,
+      "title": "The Third Language",
+      "words": 2970
+    },
+    {
+      "ch": 8,
+      "title": "The Crushed Coral Path",
+      "words": 2970
+    },
+    {
+      "ch": 9,
+      "title": "The Contained Jungle",
+      "words": 2970
+    },
+    {
+      "ch": 10,
+      "title": "The Woman Who Looks Through",
+      "words": 2970
+    },
+    {
+      "ch": 11,
+      "title": "The Ant Economy",
+      "words": 2970
+    },
+    {
+      "ch": 12,
+      "title": "The Map of Permits",
+      "words": 2970
+    },
+    {
+      "ch": 13,
+      "title": "The Rot of Frangipani",
+      "words": 2970
+    },
+    {
+      "ch": 14,
+      "title": "The Flick of a Wrist",
+      "words": 2970
+    },
+    {
+      "ch": 15,
+      "title": "The Blue Flower of Heat",
+      "words": 2970
+    },
+    {
+      "ch": 16,
+      "title": "The Pantun in the Muscle",
+      "words": 2970
+    },
+    {
+      "ch": 17,
+      "title": "The King's Chinese",
+      "words": 2970
+    },
+    {
+      "ch": 18,
+      "title": "The Chemical Burn",
+      "words": 2970
+    },
+    {
+      "ch": 19,
+      "title": "The Sewing Machine Gravity",
+      "words": 2970
+    },
+    {
+      "ch": 20,
+      "title": "The Graphs from London",
+      "words": 2970
+    },
+    {
+      "ch": 21,
+      "title": "The Silence That Grew Teeth",
+      "words": 2970
+    },
+    {
+      "ch": 22,
+      "title": "The Heron's Flight",
+      "words": 2970
+    },
+    {
+      "ch": 23,
+      "title": "The Yield Concealed",
+      "words": 2970
+    },
+    {
+      "ch": 24,
+      "title": "The Air is a Liar",
+      "words": 2971
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a stream-of-consciousness passage from the perspective of Mei, the daughter returned from London, as she observes Ling in the garden. Let her graphs and theories collide with the raw, un-theorized reality before her.",
+      "Compose a pantun (a traditional Malay poetic form) that Ling's grandmother might have recited, encoding a message about land, loss, or resistance.",
+      "Narrate a single day at the rubber processing plant from the foreman's perspective. How does he justify the 'flick of the wrist' that dismisses Ling's father?",
+      "Describe the history of the 'Big House' from the point of view of its walls, its floorboards, or its colonial-era plumbing. What has it seen change, and what has remained stubbornly the same?"
+    ],
+    "technical": [
+      "Build a 'Debt Visualization' tool that maps the cascading debts mentioned in Chapter 1 (grain -> shop -> wholesaler -> bank). Allow users to input their own 'units' and see the chain of dependency rendered as a network graph or a sinking landscape.",
+      "Create a text generator that mimics the novel's prose style: short, sensory, metaphor-rich sentences that blend multiple languages and layers of economic reality. Train it on the provided opening to produce new paragraphs describing other spaces in the town."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf",
+      "Pramoedya Ananta Toer",
+      "James Joyce",
+      "Arundhati Roy"
+    ]
+  },
+  "cover_prompt": "A solitary figure stands on a flooded veranda, their hand outstretched to catch the relentless monsoon rain, their reflection fractured in the murky water below, within the decaying grandeur of a colonial-era bungalow in a waterlogged South Asian town, where the weight of history seeps through the cracked walls. The scene is imbued with a palpable silence, punctuated only by the drumming of rain on corrugated tin and the distant echo of a forgotten language, with details of water-stained ledger books floating beside bowls of uncooked rice and faded family portraits warping in the humidity. In the atmospheric style of Ruan Jia and Kentaro Miura, blending hyper-realistic detail with a profound, melancholic sensibility for texture and emotional depth. Book cover framing, a centered and intimate composition viewed from a low angle, emphasizing the figure's contemplative silhouette against the stormy sky, creating a sense of monumental personal struggle within the domestic space. Cinematic chiaroscuro lighting with a cool, desaturated color palette dominated by slate greys, monsoon greens, and the muted gold of old paper, with a single warm highlight on the subject's face. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
