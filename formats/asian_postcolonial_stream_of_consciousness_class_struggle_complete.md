@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The rain on the tin roof was a thousand typewriters. Tap-tap-tap-tap-ping. A staccato percussion of colonial English, each drop a full stop, a comma, a semicolon drilling into the rust. My mother’s voice beneath it, a low, steady hum, the Malay *pantun* she would never recite aloud anymore, only in the muscle memory of her jaw. She was counting rice. Not eating it. Counting. Each grain a unit of debt to the shop downstairs, which was a unit of debt to the Chinese wholesaler in town, which was a debt to the bank that used to be British and was now something else that looked the same but wore a different tie.
@@ -97,6 +99,8 @@ I touched a silk blouse, the fabric whispering under my rough fingertips. “Yes
 
 But as I gathered the pile of fabrics, the scents of the Big House clinging to them – perfume, coffee, chlorine – I knew she was wrong. It translated perfectly. It was the same ghost that lived in our shophouse, the ghost of what was, what is, and what could never be. The clash was not in her books. It was in the weight of the clothes in my arms, the crunch of the coral under my feet as I left, the view from her patio now seared behind my eyes. Thesis: the Big House. Antithesis: the tin roof. Synthesis: me, walking down the hill, carrying their worn-out things.
 
+# Chapter 2
+
 ## CHAPTER 2
 
 The needle was a silver fish diving through the blue sea of Mrs. Chua’s linen napkin. In, out, in, out. My mother’s rhythm, not mine. She sat across from me, her own needle flashing as she repaired a tear in my father’s work shirt, a tear that was now symbolic. Her movements were economical, each stitch a tiny act of reclamation. The kerosene lamp between us threw our giant, stitching shadows onto the wall, two puppet seamstresses in a silent play.
@@ -190,6 +194,8 @@ I thought of my father’s shirt, the moth-eaten sweater, Mrs. Lee’s weeping. 
 She considered this, her head tilted. “Maybe that’s the real dialectic. Not thesis and antithesis. But the beautiful idea and the ugly work of maintaining it.” She turned to leave. “My mother will likely ask you to do the dining room drapes next. They’re even uglier. A violent green. Consider yourself warned.”
 
 After she left, the room felt emptier, but her words buzzed in the air like trapped flies. I spread the curtain out on the table. The sunbeam had moved, now illuminating a section of the rotten lining. I took my shears and began to cut the old threads. They gave way with a soft, dry sigh. It was a sound of release. For a moment, I wasn’t mending. I was dissecting. I was an archaeologist of bad taste, peeling back the layers of a dead dream. It felt, for the first time, like a kind of power.
+
+# Chapter 3
 
 ## CHAPTER 3
 
